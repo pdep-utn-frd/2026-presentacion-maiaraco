@@ -8,7 +8,8 @@
 * Legajo: 14642
 
 ## Intereses
-Me gusta mucho mirar deportes, especialmente fórmula 1, donde soy fanática de Ferrari, y fútbol, donde soy fanática de San Lorenzo. Respecto a esto último, mi pasatiempo favorito es ir a la cancha con mi hermano y mi novio; por lo que lo hago cada vez que puedo.
+Me gusta mucho mirar deportes, especialmente fórmula 1, donde soy fanática de Ferrari, y fútbol, donde soy fanática de San Lorenzo. Respecto a esto último, mi pasatiempo favorito es ir a la cancha con mi hermano y mi novio; por lo que lo hago cada vez que puedo.  
+
 Además me gusta mucho leer novelas y ciencia ficción, así como también ver series y películas. Mi serie favorita es Peaky Blinders y la saga de películas que más me fascina es Harry Potter.
 
 ## Estudios
